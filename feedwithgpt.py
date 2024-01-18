@@ -6,7 +6,7 @@ import time
 
 client = OpenAI(
     # This is the default and can be omitted
-    api_key="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",
+    api_key="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",
 )
 
 
